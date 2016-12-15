@@ -2,9 +2,9 @@
 
 Raw data used in my paper 1  
 
-The role of heterozygosity versus population genetic diversity on growth rate plasticity in the clonal seaweed Gracilaria chilensis
+#The role of heterozygosity versus population genetic diversity on growth rate plasticity in the clonal seaweed Gracilaria chilensis
 
-Authors: Gallegos C., Beltrán J., Flores V., González A. V., Santelices B.
+##Authors: Gallegos C., Beltrán J., Flores V., González A. V., Santelices B.
 
 Four text files are included: Growth.txt, Alleles (t0).txt, Alleles (1 month).txt, Alleles (2 months).txt.
 
